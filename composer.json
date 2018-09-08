@@ -1,5 +1,5 @@
 {
-	"name" : "luyadev/luya-module-news",
+	"name" : "msoa/luya-module-news",
 	"description" : "The news module will provided you a basic news system with categories and tags.",
 	"type" : "luya-module",
 	"keywords" : ["php", "luya", "module", "news", "yii2", "yii", "luya-module"],
